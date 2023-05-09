@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expenses-notes/static/css/main.ceafe24c.css",
+    "main.js": "/Expenses-notes/static/js/main.77539c64.js",
+    "index.html": "/Expenses-notes/index.html",
+    "main.ceafe24c.css.map": "/Expenses-notes/static/css/main.ceafe24c.css.map",
+    "main.77539c64.js.map": "/Expenses-notes/static/js/main.77539c64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceafe24c.css",
+    "static/js/main.77539c64.js"
+  ]
+}
